@@ -1,1 +1,2 @@
-# smart_data_analyzer_using_python
+# Python_Diwali_Sales_Analysis
+Python project 
